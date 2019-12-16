@@ -1,5 +1,5 @@
 {
-    "name": "nelmio/solarium-bundle",
+    "name": "informeren/solarium-bundle",
     "description": "Integration with solarium solr client.",
     "keywords": ["solr", "solarium", "search"],
     "type": "symfony-bundle",
@@ -12,6 +12,10 @@
         {
             "name": "Symfony Community",
             "homepage": "https://github.com/nelmio/NelmioSolariumBundle/contributors"
+        },
+        {
+            "name": "Dagbladet Information",
+            "homepage": "https://information.dk"
         }
     ],
     "require": {
